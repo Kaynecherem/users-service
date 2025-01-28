@@ -1,0 +1,10 @@
+INSERT INTO app_user (name, email) VALUES ('John Doe', 'john.doe@example.com');
+INSERT INTO app_user (name, email) VALUES ('Alice Johnson', 'alice.johnson@example.com');
+INSERT INTO app_user (name, email) VALUES ('Bob Brown', 'bob.brown@example.com');
+INSERT INTO app_user (name, email) VALUES ('Charlie Davis', 'charlie.davis@example.com');
+INSERT INTO app_user (name, email) VALUES ('Emily Evans', 'emily.evans@example.com');
+INSERT INTO app_user (name, email) VALUES ('Frank Foster', 'frank.foster@example.com');
+INSERT INTO app_user (name, email) VALUES ('Grace Green', 'grace.green@example.com');
+INSERT INTO app_user (name, email) VALUES ('Hannah Harris', 'hannah.harris@example.com');
+INSERT INTO app_user (name, email) VALUES ('Ian Irving', 'ian.irving@example.com');
+INSERT INTO app_user (name, email) VALUES ('Jackie Jackson', 'jackie.jackson@example.com');
